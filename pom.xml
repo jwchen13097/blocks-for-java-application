@@ -18,11 +18,11 @@
     </properties>
 
     <modules>
+        <module>communication</module>
         <module>db</module>
         <module>encoding</module>
         <module>filesystem</module>
         <module>security</module>
         <module>tool</module>
-        <module>communication</module>
     </modules>
 </project>
