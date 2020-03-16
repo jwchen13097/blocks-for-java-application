@@ -20,5 +20,6 @@
     <modules>
         <module>checkstyle</module>
         <module>cross-domain</module>
+        <module>findbugs</module>
     </modules>
 </project>
