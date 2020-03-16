@@ -18,6 +18,7 @@
     </properties>
 
     <modules>
+        <module>db</module>
         <module>encoding</module>
         <module>filesystem</module>
         <module>security</module>
