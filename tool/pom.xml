@@ -24,5 +24,6 @@
         <module>lombok</module>
         <module>maven</module>
         <module>spring-boot-dev-tools</module>
+        <module>swagger-ui</module>
     </modules>
 </project>
